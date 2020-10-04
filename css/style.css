@@ -1,0 +1,537 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.profil {
+    border: 10%;
+    width: 700px;
+    height: 400px;
+    border: 20px solid transparent;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Nom {
+  margin-left: 23px;
+}
+
+.Prénom {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.Mail {
+  margin-left: 25px;
+  margin-top: 10px;
+}
+
+.Contact {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.Message {
+   margin-top: 10px;
+ }
+
+ .Soumettre {
+  margin-top: 20px;
+ }
+
+ .TEL {
+  margin-bottom: 15%;
+ }
+
+body {
+  background-color: #ffffcc;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #ffffcc;
+  padding: 30px;
+  text-align: center;
+  font-family: Goudy Old Style;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.footer {
+  background-color: ;
+  padding: 40px;
+  text-align: center;
+  margin-left: 10%;
+  margin-top: 10%;
+  margin: auto;
+}
+
+
+.presentation {
+  text-align: ;
+  margin-left: 
+  margin-top: 20px;
+}
+/*img 1*/
+div.echan1 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: ;
+  width: 180px;
+
+}
+
+div.echan1:hover {
+  border: 1px solid #777;
+}
+
+div.echan1 img {
+  width: 100%;
+  height: auto;
+}
+
+
+/*img 2*/
+div.echan2 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: ;
+  width: 180px;
+  margin-left: 250px;
+ }
+
+div.echan2:hover {
+  border: 1px solid #777;
+}
+
+div.echan2 img {
+  width: 100%;
+  height: auto;
+}
+
+
+/*img 3*/
+div.echan3 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: ;
+  width: 180px;
+  margin-left: 300px;
+}
+
+div.echan3:hover {
+  border: 1px solid #777;
+}
+
+div.echan3 img {
+  width: 100%;
+  height: auto;
+}
+
+
+/*img 4*/
+div.echan4 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: ;
+  width: 180px;
+  margin-top: 15%;
+}
+
+div.echan4:hover {
+  border: 1px solid #777;
+}
+
+div.echan4 img {
+  width: 100%;
+  height: auto;
+}
+
+
+/*img 5*/
+div.echan5 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: ;
+  width: 180px;
+  margin-left: 250px;
+  margin-top: 15%;
+}
+
+div.echan5:hover {
+  border: 1px solid #777;
+}
+
+div.echan5 img {
+  width: 100%;
+  height: auto;
+}
+
+/*img 6*/
+div.echan6 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: ;
+  width: 180px;
+  margin-left: 300px;
+  margin-top: 15%;
+}
+
+div.echan6:hover {
+  border: 1px solid #777;
+}
+
+div.echan6 img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+} 
+
+div.Prod1 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+
+div.Prod1:hover {
+  border: 1px solid #777;  
+}
+
+div.Prod1 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod2 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod2:hover {
+  border: 1px solid #777;
+}
+
+div.Prod2 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod3 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod3:hover {
+  border: 1px solid #777;
+}
+
+div.Prod3 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod4 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod4:hover {
+  border: 1px solid #777;
+}
+
+div.Prod4 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod5 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod5:hover {
+  border: 1px solid #777;
+}
+
+div.Prod6 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod6 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod6:hover {
+  border: 1px solid #777;
+}
+
+div.Prod6 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod7 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod7:hover {
+  border: 1px solid #777;
+}
+
+div.Prod7 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod8 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod8:hover {
+  border: 1px solid #777;
+}
+
+div.Prod8 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod9 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod9:hover {
+  border: 1px solid #777;
+}
+
+div.Prod9 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod10 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod10:hover {
+  border: 1px solid #777;
+}
+
+div.Prod10 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod11 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod11:hover {
+  border: 1px solid #777;
+}
+
+
+div.Prod11img {
+  width: 100px;
+  height: auto;
+}
+div.Prod12 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod12:hover {
+  border: 1px solid #777;
+}
+
+
+div.Prod13 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod13:hover {
+  border: 1px solid #777;
+}
+
+div.Prod13 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod14 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod14:hover {
+  border: 1px solid #777;
+}
+
+div.Prod14 img {
+  width: 100px;
+  height: auto;
+}
+
+div.Prod15 {
+  margin: px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.Prod15:hover {
+  border: 1px solid #777;
+}
+
+div.Prod15 img {
+  width: 100px;
+  height: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Create three equal columns that floats next to each other */
+/*Colonne 1*/
+.Histoire {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .Histoire {
+    width: 100%;
+  }
+
+ /*Colonne 2*/
+.Projets {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .Projets {
+    width: 100%;
+  } 
+
+ /*Colonne 3*/
+.Mission {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .Mission {
+    width: 100%;
+  }  
